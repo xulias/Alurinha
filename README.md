@@ -1,2 +1,2 @@
 # Semana 3 - FLEXBOX ALURINHA
- Projeto pedagógico com o objetivo do aprendizado de posições de elementos na tela a partir do uso de Flexbox elaborado pela plataforma Alura pelo DESENVOLVE 2023 do Grupo Boticário
+Projeto pedagógico para fixação do conteúdo de Flexbox elaborado pela plataforma Alura pelo Programa Desenvolve 2023 do Grupo Boticário.
